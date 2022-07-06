@@ -1,0 +1,73 @@
+body{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+input:focus { 
+    outline: none !important;
+    border-color: #719ECE;
+    box-shadow: 0 0 10px #719ECE;
+}
+textarea:focus { 
+    outline: none !important;
+    border-color: #719ECE;
+    box-shadow: 0 0 10px #719ECE;
+}
+
+#border{
+    position: absolute;
+    border: 3px solid blue;
+    height: 400px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.63);;
+    margin-left: 800px;
+    margin-top: 40ch;
+}
+#logo{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 5ch;
+
+}
+#title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 8.4ch;
+}
+
+#output1{
+    color:white;
+}
+#btn{
+    position: absolute;
+    border: 2px solid blue;
+    width: 90px;
+    height: 40px;
+    font-size: 19px;
+    background-color: blue;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top:16ch;
+    margin-left: 100px;
+}
+#content{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.792);
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 90px;
+    width: 200px;
+    margin-top: 6ch;
+    margin-left: 46px;
+    font-size: 17px;
+}
+
+#link{
+    position: absolute;
+    color: rgba(255, 255, 255, 0);
+    border: 2px solid transparent;
+    background-color: transparent;
+    margin-top: 50ch;
+}
