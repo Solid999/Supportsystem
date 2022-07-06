@@ -1,5 +1,5 @@
 # Support
-1. Open index.html and put your webhook link
+1. Open ui.html and put your webhook link
 Finished
 
 # Review
